@@ -1,0 +1,79 @@
+body{
+    font-size: 18px;
+}
+.top-navbar{
+    background-image: url('image-header.jpg');
+    background-size: 1640px 800px;
+    height: 800px;
+    width:1600px;
+}
+.orange-nav{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: -10px;
+}
+.about{
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+.services{
+    margin-top: 20px;
+}
+.projects{
+    margin-top: 20px;
+}
+.sunnyside{
+    font-size:25px;
+    margin-top: 20px;
+}
+button{
+    height:20px;
+    width:100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border:none;
+}
+.weare{
+    margin-left:520px;
+    font-size: 60px;
+    color:white;
+}
+.arrow-image{
+    margin-left: 800px;
+}
+.transform{
+    padding:245px 185px 250px 200px;
+}
+.whole-transform{
+display: flex;
+flex-direction: row;
+}
+.transform-image{
+margin-right: -50px;
+}
+.stand-out{
+    padding:245px 185px 250px 200px;
+}
+.row-4{
+    display: flex;
+    flex-direction: row;
+}
+.berry{
+background-image: url('image-graphic-design.jpg');
+width:800px;
+height:600px;
+}
+.orange{
+background-image: url('image-photography.jpg');
+width:800px;
+height:600px;
+}
+.row4-para{
+    margin:350px 200px 0px 260px;
+}
+.client{
+    color:gray;
+    font-size:70px;
+    margin:200px 0px 150px 550px;
+}
